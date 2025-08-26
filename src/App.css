@@ -1,0 +1,77 @@
+/* Full background */
+.page-container {
+  background-color: #ffb6c1; /* light pink */
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+/* White box in center */
+.content-box {
+  background: white;
+  padding: 40px;
+  border-radius: 20px;
+  box-shadow: 0 8px 25px rgba(141, 93, 93, 0.2);
+  text-align: center;
+  width: 400px;
+}
+
+/* Buttons */
+.navbar {
+  margin-bottom: 20px;
+
+}
+/* .navbar button {
+  margin: 0 10px;
+  padding: 10px 18px;
+  border: none;
+  border-radius: 8px;
+  background-color: #ff69b4;
+  color: white;
+  font-weight: bold;
+  cursor: pointer;
+  transition: background 0.3s ease-in-out;
+   */
+/* } */
+/* .navbar button:hover {
+  background-color: #ff1493;
+} */
+
+/* Image */
+.icecream-img {
+  width: 200px;
+  height: auto;
+  margin-bottom: 15px;
+}
+
+/* Title + tagline */
+.title {
+  font-size: 28px;
+  font-weight: bold;
+  margin: 10px 0;
+  color: #ff1493;
+}
+.tagline {
+  font-size: 16px;
+  color: #666;
+}
+
+
+.btn {
+  display: inline-block;
+  margin: 0 10px;
+  padding: 10px 18px;
+  border: none;
+  border-radius: 8px;
+  background-color: #ff69b4;
+  color: white;
+  font-weight: bold;
+  cursor: pointer;
+  text-decoration: none; /* underline hatane ke liye */
+  transition: background 0.3s ease-in-out;
+}
+
+.btn:hover {
+  background-color: #ff1493;
+}
