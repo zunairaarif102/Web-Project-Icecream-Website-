@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Mango Ice Cream",
+    "price": 200,
+    "description": "Creamy mango bliss, sunshine in scoop.",
+    "image": "mango.jpeg"
+  },
+  {
+    "name": "Raspberry Ice Cream",
+    "price": 150,
+    "description": "Tangy raspberries, creamy bliss, fruity burst.",
+    "image": "raspberry.avif"
+  },
+  {
+    "name": "Pistachio Ice Cream",
+    "price": 120,
+    "description": "Smooth pistachio bliss with rich, nutty flavor.",
+    "image": "pistachio.jpg"
+  },
+  {
+    "name": "Chocolate Ice Cream",
+    "price": 250,
+    "description": "Crunchy cookies, silky cream, delicious surprise.",
+    "image": "chocolate.avif"
+  },
+  {
+    "name": "Caramel Ice Cream",
+    "price": 200,
+    "description": "Velvety caramel, creamy perfection, buttery delight.",
+    "image": "caramel.webp"
+  },
+  {
+    "name": "Blueberry Ice Cream",
+    "price": 220,
+    "description": "Sweet-tart blueberries, creamy refreshing treat.",
+    "image": "blue berry.avif"
+  },
+  {
+    "name": "French Vanilla Ice Cream",
+    "price": 250,
+    "description": "Creamy vanilla, smooth timeless Madagascar taste.",
+    "image": "french vanilla.jpeg"
+  },
+  {
+    "name": "Strawberry Ice Cream",
+    "price": 120,
+    "description": "Juicy strawberries, refreshing, mouthwatering indulgence.",
+    "image": "stawberry.jpg"
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "name": "Americano Cold Coffee",
+    "price": 200,
+    "image": "americano coffee.jpg"
+  },
+  {
+    "name": "Latte Cold Coffee",
+    "price": 200,
+    "image": "latte coffee.webp"
+  },
+  {
+    "name": "Mocha Cold Coffee",
+    "price": 200,
+    "image": "mocha coffee.jpg"
+  },
+  {
+    "name": "Caramel Cold Coffee",
+    "price": 200,
+    "image": "caramel coffee.jpg"
+  },
+  {
+    "name": "Vanilla Cold Coffee",
+    "price": 200,
+    "image": "vanilla coffee.webp"
+  }
+]

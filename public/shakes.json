@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Chocolate Shake",
+    "price": 200,
+    "description": "Rich creamy chocolate shake topped with cocoa.",
+    "image": "chocolate shake.jpg"
+  },
+  {
+    "name": "Mango Shake",
+    "price": 200,
+    "description": "Refreshing mango shake, tropical fruity delight.",
+    "image": "mango shake.jpg"
+  },
+  {
+    "name": "Banana Shake",
+    "price": 200,
+    "description": "Smooth and creamy banana shake full of energy.",
+    "image": "banana shake.jpg"
+  },
+  {
+    "name": "Strawberry Shake",
+    "price": 200,
+    "description": "Sweet strawberry shake with a fruity punch.",
+    "image": "stawberry shake.jpg"
+  },
+  {
+    "name": "Oreo Shake",
+    "price": 200,
+    "description": "Crunchy Oreo blended with velvety creamy shake.",
+    "image": "oreo shake.jpg"
+  },
+  {
+    "name": "Caramel Shake",
+    "price": 200,
+    "description": "Silky caramel shake with buttery flavor.",
+    "image": "caramel shake.webp"
+  }
+]
